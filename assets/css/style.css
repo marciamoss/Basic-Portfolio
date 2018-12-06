@@ -12,7 +12,7 @@ body {
     }
     
 .box1 {
-    background: #cccccc;
+    background: #cccccc;   
     }
     
 a {
@@ -114,20 +114,19 @@ a {
     }
 
 .ptxtplace {
-    background: #ffffff;
-    height: 2000px;
+    background: #ffffff; 
+    
     }
     
 .img1place {
     clear: both;
     margin-left: 30px;
     width: 300px; 
-    height: 300px;
     }
 
 .img1text {
     position: relative;
-    bottom: 1600px;
+    bottom: 1300px;
     left: -300px;
     background: #4aaaa5;
     text-align: center;
@@ -140,14 +139,14 @@ a {
 
 .img2place {
     position: relative; 
-    bottom: 1870px;
+    bottom: 309px;
     left: 400px;
-    width: 300px;
+    width: 300px; 
     }
 
 .img2text {
     position: relative;
-    bottom: 3650px;
+    bottom: 1350px;
     left: 70px;
     background: #4aaaa5;
     text-align: center;
@@ -160,14 +159,15 @@ a {
 
 .img3place {
     position: relative; 
-    bottom: 3600px;
-    left: 30px;
+    bottom: 290px;
+    left: 30px; 
     width: 300px;
+    
     }
 
 .img3text {
     position: relative;
-    bottom: 5370px;
+    bottom: 1070px;;
     left: -300px;
     background: #4aaaa5;
     text-align: center;
@@ -180,14 +180,14 @@ a {
 
 .img4place {
     position: relative; 
-    bottom: 5645px;
+    bottom: 600px;
     left: 400px;
     width: 300px;
     }   
     
 .img4text {
     position: relative;
-    bottom: 7420px;
+    bottom: 1130px;
     left: 70px;
     background: #4aaaa5;
     text-align: center;
@@ -200,14 +200,14 @@ a {
 
 .img5place {
     position: relative; 
-    bottom: 7370px;
+    bottom: 580px;
     left: 30px;
     width: 300px;
     }   
     
 .img5text {
     position: relative;
-    bottom: 9140px;
+    bottom: 850px;
     left: -300px;
     background: #4aaaa5;
     text-align: center;
@@ -217,6 +217,32 @@ a {
     font-size: 35px;
     color: #ffffff;
     }
+
+.footer{
+    text-align: center;
+    border-width: 5px;
+    border-top-color: #4aaaa5;
+    border-bottom-color: #777777;
+    border-left-color: #777777;
+    border-right-color: #777777;
+    border-style: solid;
+    position: absolute;
+    bottom: 0;
+    background: #777777;
+}
+
+.pfooter{
+    text-align: center;
+    border-width: 5px;
+    border-top-color: #4aaaa5;
+    border-bottom-color: #777777;
+    border-left-color: #777777;
+    border-right-color: #777777;
+    border-style: solid;
+    position: absolute;
+    /* bottom: 0; */
+    background: #777777;
+}
 
 
 
